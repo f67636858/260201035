@@ -1,2 +1,4 @@
-print("Hello World!")
-print("This is second trial")
+animals = 10
+chickens = 6
+roosters = animals-chickens
+print(roosters)
